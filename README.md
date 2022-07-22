@@ -1,6 +1,6 @@
 ## Derek Alvarado Saenz <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f363.png" width="20px"/>
 
-#### Frontend developer that loves to create a perfect image through web sytes. Currently studying  Engeneering in Information Technlogies at the Technlogical University of Chihuahua Academic Unit BIS.
+#### Frontend developer that loves to create a perfect image through web sytes. Currently studying Engineering in Information Technlogies at the Technlogical University of Chihuahua Academic Unit BIS.
 
 <div>
 => Experienced with:
