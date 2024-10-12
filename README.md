@@ -2,4 +2,4 @@
 
 ### **Derek Alvarado Saenz** <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f363.png" width="20px"/>
 
-Frontend developer that loves to create great experiences through web sites. **Someone hire me please.**
+Frontend developer that loves to create great experiences through web sites.
