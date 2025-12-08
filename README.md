@@ -1,7 +1,7 @@
-## Derek Alvarado
+# Derek Alvarado
 I build react apps optimising rerenders.
 
-## Check out my latest projects!
+## Check out my latest projects! ☕
 
 - [jrnl-app](https://www.jrnl-app.com) - Creating connections through daily journaling.
 - [Tech Tank Foundation](https://www.techtankfound.com) - Fostering innovation, education, and policy excellence in technology.
