@@ -1,5 +1,5 @@
 # Derek Alvarado
-I build react apps optimising rerenders.
+I build react apps. No useless rerenders here.
 
 ## Check out my latest projects! ☕
 
